@@ -72,14 +72,5 @@ JWT_SECRET=your_secret_key
 CLIPDROP_API_KEY=your_api_key
 ```
 
----
-
-## 📸 Screenshots  
-![Screenshot 2025-02-03 183758](https://github.com/user-attachments/assets/51463a2a-88af-4825-9fe6-d653c7ecc9d8)
-  
-
----
-
-
 ## 🔥 Developed with ❤️ by Varnikumar Patel
 
